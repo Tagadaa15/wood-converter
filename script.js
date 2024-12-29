@@ -10,7 +10,7 @@ function calculerPrix() {
   }
 
   // Calculer le prix
-  const prixUnitaire = 600; // Prix d'une unité de bois
+  const prixUnitaire = 650; // Prix d'une unité de bois
   const prixTotal = quantite * prixUnitaire;
 
   // Afficher le résultat
